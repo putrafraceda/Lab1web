@@ -6,6 +6,7 @@
 - Gambar1
   ![img 1](Screenshot/1.png)
 - Gambar2
+  ![img 2](Screenshot/2.png)
 # 2. Kemudian membuat beberapa paragraf sederhana
 - Gambar result
 # 3. Kemudian atur atribut paragraf dan menambahkan sub judul
