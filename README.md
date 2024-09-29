@@ -4,6 +4,7 @@
 ## Kelas : TI.23.A4
 ## 1. Menambahkan file baru praktikum1 dan menambahkan tag dasar dokumen HTML.
 - Gambar1
+  ![img 1](screenshot/1.png)
 - Gambar2
 # 2. Kemudian membuat beberapa paragraf sederhana
 - Gambar result
